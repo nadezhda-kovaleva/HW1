@@ -2,4 +2,9 @@
     <string name="app_name">try1</string>
     <string name="hello_world">Hello World!!!</string>
     <string name="edit_text">EDITTEXT</string>
+    <string name="edit_text2">Придет время, когда ты решишь, что всё кончено. Это и будет начало!</string>
+    <string name="button">Button</string>
+    <string name="switch_button">Switch</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="toggle_button">ToggleButton</string>
 </resources>
